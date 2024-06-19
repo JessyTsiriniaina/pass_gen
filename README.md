@@ -1,1 +1,1 @@
-#A simple password generator made with vanilla javascript
+# A simple password generator made with vanilla javascript
